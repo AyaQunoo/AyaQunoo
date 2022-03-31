@@ -6,10 +6,10 @@ Software Engineering student located in palestine .
  
  
  skills:
- -HTML
- -CSS
- -JavaScript 
- more to be added 
+ HTML ,
+ CSS  ,
+ JavaScript 
+ more to be added ......
  
  
 
