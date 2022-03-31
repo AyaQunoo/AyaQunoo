@@ -5,11 +5,11 @@ Software Engineering student located in palestine .
 - 🌱 I’m currently commited to 100Devs Bootcamp.
  
  
- skills:
+ Skills :  
  HTML ,
  CSS  ,
- JavaScript 
- more to be added ......
+ JavaScript   
+   more to be added ......
  
  
 
