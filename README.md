@@ -4,6 +4,7 @@ Software Engineering student located in palestine .
 - 👀 I’m interested in learning full-stack development.
 - 🌱 I’m currently commited to 100Devs Bootcamp.
  
+ 
  skills:
  -HTML
  -CSS
