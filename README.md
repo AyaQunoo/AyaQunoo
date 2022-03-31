@@ -1,7 +1,7 @@
                                                                    👋 Hi, I’m Aya Qunoo 
 
 
-Software Engineering student located in palestine,Gaza .
+Software Engineering student located in palestine-Gaza
 
 - 👀 I’m interested in learning full-stack development.
 - 🌱 I’m currently commited to 100Devs Bootcamp.
